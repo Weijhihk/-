@@ -1,0 +1,5 @@
+{
+  "name": "Progress Tracker",
+  "description": "A progress tracking table to manage and track tasks with scheduled and actual timelines.",
+  "requestFramePermissions": []
+}
