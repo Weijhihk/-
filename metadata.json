@@ -1,5 +1,5 @@
 {
-  "name": "Progress Tracker",
+  "name": "專案成本進度管理",
   "description": "A progress tracking table to manage and track tasks with scheduled and actual timelines.",
   "requestFramePermissions": []
 }
