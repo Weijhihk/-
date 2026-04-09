@@ -1,5 +1,5 @@
 {
   "name": "專案成本進度管理",
-  "description": "A progress tracking table to manage and track tasks with scheduled and actual timelines.",
+  "description": "用於管理專案成本、進度追蹤以及單價分析的系統工具。",
   "requestFramePermissions": []
 }
